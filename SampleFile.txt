@@ -1,1 +1,3 @@
 THIS IS A SAMPLE FILE.TXT
+
+I am adding some changes.
